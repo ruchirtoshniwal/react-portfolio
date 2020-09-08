@@ -1,0 +1,134 @@
+{
+  "main": {
+    "name": "Ruchir Toshniwal",
+    "occupation": "Full Stack Developer",
+    "description": "Currently working on Reactjs",
+    "image": "minee.jpg",
+    "bio": " I am Ruchir Toshniwal . I am a full stack developer. At this time ,I am focusing on to take my skills to a new height . So , I started learning REact Js." ,
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "ruchirtoshniwal450@gmail.com",
+    "phone": "+91 8989678911",
+    "address": {
+      "street": "72,Sadar Bazar , Badawada",
+      "city": "Ratlam",
+      "state": "M.P",
+      "zip": "457226"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/ruchir.toshniwal",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ruchir-toshniwal-328b92152/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ruchirtoshniwal/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ruchirtoshniwal",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Shri Vaishnav Vidhyapeeth Vishwavidyalaya",
+        "degree": "B.Tech in computer science engineering ",
+        "graduated": "2017-2021",
+        "description": "C.G.P.A : 6.9 "
+      },
+      {
+        "school": "Emerald heights higher secondary school",
+        "degree": "12 th",
+        "graduated": "April 2017",
+        "description": "75.2 %"
+      },
+      {
+        "school": "Himalaya International school",
+        "degree": "10 th",
+        "graduated": "April 2015",
+        "description": "C.G.P.A : 9.0"
+      }
+    ],
+    "work": [
+      {
+        "company": "SsInfotech",
+        "title": "Full-Stack Developer",
+        "years": "April 2020 - Present",
+        "description": "Working on Real Life projects like E-Commerce,Retiler App and so on .."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },      
+      {
+        "name": "CSS",
+        "level": "60%"
+      },
+      {
+        "name": "Javascript",
+        "level": "50%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "10%"
+      },
+      {
+        "name": "C programming",
+        "level": "60%"
+      },
+      {
+        "name": "C++ Programming",
+        "level": "50%"
+      },
+      {
+        "name": "java",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "10%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Coronavirus detection through X-Rays and live Tracker",
+        "category": "COrona virus....",
+        "image": "Corona.PNG",
+        "url": "https://covid19detection.pythonanywhere.com/"
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
